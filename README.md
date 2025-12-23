@@ -29,7 +29,7 @@ Here's the step-by-step process:
 
 **Step 1: Clone the Repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/iamdivyanshukumar/YouTube-Chatbot-project.git
 cd ytub-chatbot
 ```
 
